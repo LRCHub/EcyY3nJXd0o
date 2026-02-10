@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "'Til We Meet Again",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-10T21:20:36.205106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "’Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/01_’Til_We_Meet_Again_aespa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "'Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/02_'Til_We_Meet_Again_aespa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Til We Meet Again (+)",
+      "artist": "Inner City",
+      "has_synced": false,
+      "path": "select/03_Til_We_Meet_Again_(+)_Inner_City.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "'Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/04_'Til_We_Meet_Again_aespa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "'til we meet again",
+      "artist": "Kenny Mehler",
+      "has_synced": false,
+      "path": "select/05_'til_we_meet_again_Kenny_Mehler.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Til We Meet Again!",
+      "artist": "Twin Tecs!",
+      "has_synced": true,
+      "path": "select/06_Til_We_Meet_Again!_Twin_Tecs!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Til We Meet Again",
+      "artist": "Dakota Moon",
+      "has_synced": false,
+      "path": "select/07_Til_We_Meet_Again_Dakota_Moon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "'Til We Meet Again",
+      "artist": "Samael",
+      "has_synced": false,
+      "path": "select/08_'Til_We_Meet_Again_Samael.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Til We Meet Again",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/09_Til_We_Meet_Again_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Til We Meet Again!",
+      "artist": "Twin Tecs!/Summrs",
+      "has_synced": true,
+      "path": "select/10_Til_We_Meet_Again!_Twin_Tecs!_Summrs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Til We Meet Again! (feat. Summrs)",
+      "artist": "Twin Tecs!",
+      "has_synced": true,
+      "path": "select/11_Til_We_Meet_Again!_(feat._Summrs)_Twin_Tecs!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "'Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/12_'Til_We_Meet_Again_aespa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Til We Meet Again Ft Stephen M",
+      "artist": "Mr Cheeks",
+      "has_synced": false,
+      "path": "select/13_Til_We_Meet_Again_Ft_Stephen_M_Mr_Cheeks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "’Til We Meet Again",
+      "artist": "Roger Joseph Manning Jr․",
+      "has_synced": false,
+      "path": "select/14_’Til_We_Meet_Again_Roger_Joseph_Manning_Jr..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Til We Meet Again",
+      "artist": "Inner City",
+      "has_synced": false,
+      "path": "select/15_Til_We_Meet_Again_Inner_City.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "'Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/16_'Til_We_Meet_Again_aespa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love One Another, God Be With You Til We Meet Again",
+      "artist": "The Osmonds",
+      "has_synced": false,
+      "path": "select/17_Love_One_Another,_God_Be_With_You_Til_We_Meet_Again_The_Osmonds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "'Til We Meet Again",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_'Til_We_Meet_Again_aespa.txt"
+    }
+  ]
+}
